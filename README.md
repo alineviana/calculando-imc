@@ -1,4 +1,4 @@
-# Projeto 07 | Programa Explorer da Rocketseat
+# Projeto 08 | Programa Explorer da Rocketseat
 
 - Desafio: criar uma calculadora de IMC.
 
